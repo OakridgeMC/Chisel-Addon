@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "chisel:bricks_encased_intersection_concrete_cyan"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "chisel:bricks_encased_concrete_cyan"
+      }
+    ],
+    "result": {
+      "item": "chisel:bricks_encased_intersection_concrete_cyan",
+      "count": 1
+    }
+  }
+}

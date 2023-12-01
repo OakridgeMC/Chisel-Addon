@@ -1,0 +1,38 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "chisel:marble_feature"
+    },
+    "count": 32,
+    "replace_rules": [
+      {
+        "places_block": "chisel:raw_marble",
+        "may_replace": [
+          "explorers:white_stone",
+          "minecraft:stone",
+          "minecraft:deepslate",
+          {
+            "name": "minecraft:stone",
+            "states": {
+              "stone_type": "andesite"
+            }
+          },
+          {
+            "name": "minecraft:stone",
+            "states": {
+              "stone_type": "granite"
+            }
+          },
+          {
+            "name": "minecraft:stone",
+            "states": {
+              "stone_type": "diorite"
+            }
+          }
+          
+        ]
+      }
+    ] 
+  }
+}

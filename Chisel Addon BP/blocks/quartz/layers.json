@@ -1,0 +1,24 @@
+{
+  "format_version": "1.19.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "chisel:layers_quartz",
+      "properties": {
+	  
+	  }
+    },
+        "components": {
+			"minecraft:creative_category": {
+				"category": "construction",
+				"group": "itemGroup.name.stoneBrick"
+			},
+			"minecraft:destroy_time": 0.5,
+			"minecraft:explosion_resistance": 15,
+			"minecraft:block_light_filter": 15,
+			"minecraft:map_color": "#eceae4",
+			"minecraft:light_emission": 0,
+			
+			"tag:stone": {}        
+		}
+    }
+}
