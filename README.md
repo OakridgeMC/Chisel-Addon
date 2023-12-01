@@ -5,7 +5,7 @@ Simplified fork of MC77Rivers' Chisel addon, a port of the Minecraft Java Chisel
 Thank you to @MCRivers77 for the original addon, which has been modified to meet our uses.
 
 
-###Blocks
+### Blocks
 
 Added the following variants: array, chaotic bricks, cracked bricks, encased bricks, small bricks, soft bricks, solid bricks, triple bricks, medium chaotic, small chaotic, circular, cracked, dent, frenchone, frenchtwo, jellybean, layers, mosaic, ornate, panel, pillar, prism, road, slanted, large tile, medium tile, small tile, twisted, weaver, zag.
 To the following blocks: andesite, basalt, bricks, cobblestone, concrete, diorite, end stone, granite, honeycomb, ice, limestone (new block), marble (new block), nether brick, paper (new block), planks (all wood types), prismarine, purpur, quartz, red nether brick, stone.
