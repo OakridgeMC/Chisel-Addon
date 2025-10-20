@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "chisel:chaotic_small_granite"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "minecraft:granite"
+      }
+    ],
+    "result": {
+      "item": "chisel:chaotic_small_granite",
+      "count": 1
+    }
+  }
+}

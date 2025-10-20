@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "chisel:road_nether_brick"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "minecraft:nether_brick"
+      }
+    ],
+    "result": {
+      "item": "chisel:road_nether_brick",
+      "count": 1
+    }
+  }
+}

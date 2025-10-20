@@ -1,0 +1,106 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:block": {
+        "description": {
+            "identifier": "chisel:bricks_solid_diorite",
+            "menu_category": {
+				"category": "construction"
+			}
+        },
+        "components": {
+            "minecraft:material_instances" : {
+				"*": {
+					"texture": "diorite",
+					"render_method" : "opaque"
+				},
+				"all": {
+					"texture": "diorite_blocks",
+					"render_method" : "opaque"
+				}
+			},
+			"minecraft:geometry": {
+				"identifier": "geometry.chisel_block",
+				"bone_visibility": {
+					"grid_1_1": false,
+					"grid_1_2": false,
+					"grid_1_3": false,
+					"grid_1_4": false,
+					"grid_1_5": false,
+					"grid_1_6": false,
+					"grid_1_7": false,
+					"grid_2_1": false,
+					"grid_2_2": true,
+					"grid_2_3": false,
+					"grid_2_4": false,
+					"grid_2_5": false,
+					"grid_2_6": false,
+					"grid_2_7": false,
+					"grid_3_1": false,
+					"grid_3_2": false,
+					"grid_3_3": false,
+					"grid_3_4": false,
+					"grid_3_5": false,
+					"grid_3_6": false,
+					"grid_3_7": false,
+					"grid_4_1": false,
+					"grid_4_2": false,
+					"grid_4_3": false,
+					"grid_4_4": false,
+					"grid_4_5": false,
+					"grid_4_6": false,
+					"grid_4_7": false,
+					"grid_5_1": false,
+					"grid_5_2": false,
+					"grid_5_3": false,
+					"grid_5_4": false,
+					"grid_5_5": false,
+					"grid_5_6": false,
+					"grid_5_7": false,
+					"grid_6_1": false,
+					"grid_6_2": false,
+					"grid_6_3": false,
+					"grid_6_4": false,
+					"grid_6_5": false,
+					"grid_6_6": false,
+					"grid_6_7": false,
+					"grid_7_1": false,
+					"grid_7_2": false,
+					"grid_7_3": false,
+					"grid_7_4": false,
+					"grid_7_5": false,
+					"grid_7_6": false,
+					"grid_7_7": false
+				}
+			},
+            "minecraft:collision_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:selection_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 0.5
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 15
+			},
+			"minecraft:light_emission": 0,
+			"minecraft:light_dampening": 15,
+			"minecraft:map_color": "#818186",
+			
+			
+			
+			"tag:stone": {}
+
+	    
+		},
+
+
+
+        "permutations": [
+		    
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "chisel:tiles_medium_yellow_concrete_uncraft"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "chisel:tiles_medium_yellow_concrete"
+            }
+        ],
+        "result": {
+            "item": "minecraft:yellow_concrete",
+            "count": 1
+        }
+    }
+}

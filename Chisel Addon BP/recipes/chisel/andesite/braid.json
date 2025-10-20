@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "chisel:braid_andesite"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "minecraft:andesite"
+      }
+    ],
+    "result": {
+      "item": "chisel:braid_andesite",
+      "count": 1
+    }
+  }
+}

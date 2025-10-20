@@ -1,0 +1,18 @@
+{
+	"format_version": "1.17.41",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "chisel:raw_limestone"
+		},
+		"tags": ["crafting_table"],
+		"ingredients": [
+			"minecraft:stone",
+			"minecraft:bone_meal"
+			
+		],
+		"result": {
+			"item": "chisel:raw_limestone",
+			"count": 2
+		}
+	}
+}

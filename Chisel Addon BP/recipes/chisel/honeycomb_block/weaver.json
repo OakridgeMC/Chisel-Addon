@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "chisel:weaver_honeycomb_block"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "minecraft:honeycomb_block"
+      }
+    ],
+    "result": {
+      "item": "chisel:weaver_honeycomb_block",
+      "count": 1
+    }
+  }
+}
+
