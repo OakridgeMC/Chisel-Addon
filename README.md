@@ -28,6 +28,8 @@ The pack has been trimmed down to use the following blocks:
 - purpur, 
 - quartz, 
 - red nether brick, 
+- red sandstone,
+- sandstone,
 - stone.
 
 Variants of the above are crafted by putting the base block, or respective variant, into the stonecutter.

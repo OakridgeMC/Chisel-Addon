@@ -8,16 +8,13 @@
       "textures": "textures/blocks/chisel/andesite/andesite_blocks"
     },
 
-
     "diorite_blocks": {
       "textures": "textures/blocks/chisel/diorite/diorite_blocks"
     },
 
-
     "granite_blocks": {
       "textures": "textures/blocks/chisel/granite/granite_blocks"
     },
-
 
     "basalt_blocks": {
       "textures": "textures/blocks/chisel/basalt/basalt_blocks"
@@ -55,19 +52,13 @@
       "textures": "textures/blocks/chisel/brick_block/brick_block_blocks"
     },
 
-
-
     "cobblestone_blocks": {
       "textures": "textures/blocks/chisel/cobblestone/cobblestone_blocks"
     },
 
-
-
     "stone_blocks": {
       "textures": "textures/blocks/chisel/stone/stone_blocks"
     },
-
-
 
     "black_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/black_concrete_blocks"
@@ -77,27 +68,21 @@
       "textures": "textures/blocks/chisel/concrete/blue_concrete_blocks"
     },
 
-
-
     "brown_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/brown_concrete_blocks"
     },
-
 
     "cyan_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/cyan_concrete_blocks"
     },
 
-
     "gray_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/gray_concrete_blocks"
     },
 
-
     "green_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/green_concrete_blocks"
     },
-
 
     "light_blue_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/light_blue_concrete_blocks"
@@ -107,45 +92,33 @@
       "textures": "textures/blocks/chisel/concrete/light_gray_concrete_blocks"
     },
 
-
     "lime_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/lime_concrete_blocks"
     },
-
-
 
     "magenta_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/magenta_concrete_blocks"
     },
 
-
     "orange_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/orange_concrete_blocks"
     },
 
-  
     "pink_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/pink_concrete_blocks"
     },
-
-
 
     "purple_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/purple_concrete_blocks"
     },
 
-  
-
     "red_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/red_concrete_blocks"
     },
 
-
     "white_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/white_concrete_blocks"
     },
-
-
 
     "yellow_concrete_blocks": {
       "textures": "textures/blocks/chisel/concrete/yellow_concrete_blocks"
@@ -154,7 +127,6 @@
     "end_stone_blocks": {
       "textures": "textures/blocks/chisel/end_stone/end_stone_blocks"
     },
-
 
     "packed_ice_blocks": {
       "textures": "textures/blocks/chisel/packed_ice/packed_ice_blocks"
@@ -168,7 +140,6 @@
       "textures": "textures/blocks/chisel/limestone/cuts"
     },
 
-
     "marble_blocks": {
       "textures": "textures/blocks/chisel/marble/marble_blocks"
     },
@@ -177,17 +148,20 @@
       "textures": "textures/blocks/chisel/marble/cuts"
     },
 
-
     "purpur_block_blocks": {
       "textures": "textures/blocks/chisel/purpur_block/purpur_block_blocks"
     },
 
-
-
     "quartz_block_blocks": {
       "textures": "textures/blocks/chisel/quartz_block/quartz_block_blocks"
     },
+    "sandstone_blocks": {
+      "textures": "textures/blocks/chisel/sandstone/sandstone_blocks"
+    },
 
+    "red_sandstone_blocks": {
+      "textures": "textures/blocks/chisel/red_sandstone/red_sandstone_blocks"
+    },
 
     "acacia_blocks": {
       "textures": "textures/blocks/chisel/planks/acacia_blocks"

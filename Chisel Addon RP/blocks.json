@@ -44,7 +44,6 @@
     "sound": "stone"
   },
 
-  
   "chisel:dent_andesite": {
     "sound": "stone"
   },
@@ -3429,6 +3428,290 @@
     "sound": "stone"
   },
   "chisel:weaver_quartz_block": {
+    "sound": "stone"
+  },
+
+  "chisel:bevel_creeper_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:braid_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_encased_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_cracked_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_small_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_soft_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_solid_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_triple_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:chaotic_medium_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:chaotic_small_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:circular_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_small_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_medium_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_large_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:cracked_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:dent_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:frenchone_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:frenchtwo_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:glyphs_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:layers_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:mosaic_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:ornate_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:panel_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:pillarside_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:pillartop_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:prism_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:road_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_0_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_1_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_2_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_3_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_4_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_5_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_6_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_7_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_8_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_9_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_10_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_11_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_12_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_13_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_14_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_15_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:small_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:twistedside_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:twistedtop_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:weaver_sandstone": {
+    "sound": "stone"
+  },
+
+  "chisel:bevel_skeleton_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:braid_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_encased_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_cracked_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_small_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_soft_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_solid_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:bricks_triple_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:chaotic_medium_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:chaotic_small_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:circular_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_small_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_medium_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:tiles_large_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:cracked_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:dent_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:frenchone_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:frenchtwo_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:glyphs_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:layers_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:mosaic_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:ornate_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:panel_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:pillarside_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:pillartop_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:prism_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:road_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_0_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_1_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_2_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_3_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_4_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_5_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_6_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_7_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_8_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_9_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_10_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_11_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_12_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_13_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_14_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:scribbles_15_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:small_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:twistedside_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:twistedtop_red_sandstone": {
+    "sound": "stone"
+  },
+  "chisel:weaver_red_sandstone": {
     "sound": "stone"
   },
   "chisel:braid_stone": {
