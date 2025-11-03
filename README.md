@@ -40,3 +40,5 @@ New blocks:
 - Paper: Crafted with 4 sticks in the corners, 4 paper in the remaining perimeter, and nothing in the center. Nets 8.
 
 Also added chisel to the top of the crafting table texture.
+
+This addon no longer disables achievements.

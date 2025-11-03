@@ -1,24 +1,27 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Chisel 3.1 for 1.21.110, By MC77Rivers, Edited by AvgZing with heavy trimming for use on the Oakridge: Survival Unhinged realm. ",
-    "name": "AvgZing-Oakridge Chisel Addon BP §8(3.1.0)",
-    "uuid": "fd2ae055-2560-4da0-9722-b733cccdae77",
-    "version": [3, 1, 0],
+    "description": "Chisel 3.1.1 for 1.21.110, By MC77Rivers, Edited by AvgZing with heavy trimming for use on the Oakridge: Survival Unhinged realm. ",
+    "name": "AvgZing-Oakridge Chisel Addon BP §8(3.1.1)",
+    "uuid": "d8893267-2ad4-42ac-b6f4-ae4319c2fd47",
+    "version": [3, 1, 1],
     "min_engine_version": [1, 21, 50]
   },
   "modules": [
     {
-      "description": "Chisel 3.1 for 1.21.110, By MC77Rivers, Edited by AvgZing with heavy trimming for use on the Oakridge: Survival Unhinged realm.",
+      "description": "Chisel 3.1.1 for 1.21.110, By MC77Rivers, Edited by AvgZing with heavy trimming for use on the Oakridge: Survival Unhinged realm.",
       "type": "data",
-      "uuid": "fa99d002-9959-4408-a0b7-e58140cc4037",
-      "version": [3, 1, 0]
+      "uuid": "e9a76a2d-8a60-4d1c-bddf-82d33e840f45",
+      "version": [3, 1, 1]
     }
   ],
   "dependencies": [
     {
-      "uuid": "9d81ef5c-ee84-4cf3-a037-f728af1ad4ea",
-      "version": [3, 1, 0]
+      "uuid": "c2438c9a-171d-42d2-8956-e83c1bcac0f6",
+      "version": [3, 1, 1]
     }
-  ]
+  ],
+  "metadata": {
+    "product_type": "addon"
+  }
 }
